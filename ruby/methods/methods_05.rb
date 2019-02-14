@@ -8,4 +8,10 @@ scream("Yippeee")
 
 # ANSWER
 
-It will not print anything
+def scream(words)
+  puts "#{words}!!!"
+end
+
+scream("Yippeee")
+
+returns nil

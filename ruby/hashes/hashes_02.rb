@@ -1,0 +1,1 @@
+merge! is destructive so it will alter the original hash whereas merge will not

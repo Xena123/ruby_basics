@@ -1,0 +1,1 @@
+It deals with errors in a manageable and predictable way. 
